@@ -16,7 +16,7 @@ Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
 **Artificial Intelligence (Machine Learning, Deep Learning, Communication) – Assessment 3**  
 📅 April 23, 2026  
 
-![AI Certificate](certificates/1000045164.png)
+![AI Certificate](https://github.com/wespreadelitenes-tech/certificates/blob/main/1000045164.png)
 
 ### 🛠️ Skills
 - **Languages:** Python
