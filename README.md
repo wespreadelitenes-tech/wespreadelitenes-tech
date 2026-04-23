@@ -12,6 +12,11 @@ Focused on **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🌱 Always learning & building
 
 ---
+### 🎓 Certifications
+**Artificial Intelligence (Machine Learning, Deep Learning, Communication) – Assessment 3**  
+📅 April 23, 2026  
+
+![AI Certificate](certificates/1000045164.png)
 
 ### 🛠️ Skills
 - **Languages:** Python
